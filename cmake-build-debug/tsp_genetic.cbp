@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="tsp_genetic"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/VitorHugo/CLionProjects/urban-enigma/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/VitorHugo/CLionProjects/urban-enigma/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/VitorHugo/CLionProjects/urban-enigma/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/VitorHugo/CLionProjects/urban-enigma/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/VitorHugo/CLionProjects/urban-enigma/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/VitorHugo/CLionProjects/urban-enigma/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/VitorHugo/CLionProjects/urban-enigma/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/VitorHugo/CLionProjects/urban-enigma/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/VitorHugo/CLionProjects/urban-enigma/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/VitorHugo/CLionProjects/urban-enigma/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/VitorHugo/CLionProjects/urban-enigma/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/VitorHugo/CLionProjects/urban-enigma/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/VitorHugo/CLionProjects/urban-enigma/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/VitorHugo/CLionProjects/urban-enigma/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/VitorHugo/CLionProjects/urban-enigma/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tsp_genetic">
+				<Option output="/Users/VitorHugo/CLionProjects/urban-enigma/cmake-build-debug/tsp_genetic" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/VitorHugo/CLionProjects/urban-enigma/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/VitorHugo/CLionProjects/urban-enigma/cmake-build-debug/Makefile&quot;  VERBOSE=1 tsp_genetic"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/VitorHugo/CLionProjects/urban-enigma/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/VitorHugo/CLionProjects/urban-enigma/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/VitorHugo/CLionProjects/urban-enigma/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tsp_genetic/fast">
+				<Option output="/Users/VitorHugo/CLionProjects/urban-enigma/cmake-build-debug/tsp_genetic" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/VitorHugo/CLionProjects/urban-enigma/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/VitorHugo/CLionProjects/urban-enigma/cmake-build-debug/Makefile&quot;  VERBOSE=1 tsp_genetic/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/VitorHugo/CLionProjects/urban-enigma/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/VitorHugo/CLionProjects/urban-enigma/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/VitorHugo/CLionProjects/urban-enigma/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/VitorHugo/CLionProjects/urban-enigma/Date/date.c">
+			<Option target="tsp_genetic"/>
+		</Unit>
+		<Unit filename="/Users/VitorHugo/CLionProjects/urban-enigma/Date/date.h">
+			<Option target="tsp_genetic"/>
+		</Unit>
+		<Unit filename="/Users/VitorHugo/CLionProjects/urban-enigma/Genetic-Algorithm/Generation_List/generation_list.c">
+			<Option target="tsp_genetic"/>
+		</Unit>
+		<Unit filename="/Users/VitorHugo/CLionProjects/urban-enigma/Genetic-Algorithm/Generation_List/generation_list.h">
+			<Option target="tsp_genetic"/>
+		</Unit>
+		<Unit filename="/Users/VitorHugo/CLionProjects/urban-enigma/Genetic-Algorithm/Node_Generation/Generation/Population/Chromosome/Gene/gene.c">
+			<Option target="tsp_genetic"/>
+		</Unit>
+		<Unit filename="/Users/VitorHugo/CLionProjects/urban-enigma/Genetic-Algorithm/Node_Generation/Generation/Population/Chromosome/Gene/gene.h">
+			<Option target="tsp_genetic"/>
+		</Unit>
+		<Unit filename="/Users/VitorHugo/CLionProjects/urban-enigma/Genetic-Algorithm/Node_Generation/Generation/Population/Chromosome/chromosome.c">
+			<Option target="tsp_genetic"/>
+		</Unit>
+		<Unit filename="/Users/VitorHugo/CLionProjects/urban-enigma/Genetic-Algorithm/Node_Generation/Generation/Population/Chromosome/chromosome.h">
+			<Option target="tsp_genetic"/>
+		</Unit>
+		<Unit filename="/Users/VitorHugo/CLionProjects/urban-enigma/Genetic-Algorithm/Node_Generation/Generation/Population/population.c">
+			<Option target="tsp_genetic"/>
+		</Unit>
+		<Unit filename="/Users/VitorHugo/CLionProjects/urban-enigma/Genetic-Algorithm/Node_Generation/Generation/Population/population.h">
+			<Option target="tsp_genetic"/>
+		</Unit>
+		<Unit filename="/Users/VitorHugo/CLionProjects/urban-enigma/Genetic-Algorithm/Node_Generation/Generation/generation.c">
+			<Option target="tsp_genetic"/>
+		</Unit>
+		<Unit filename="/Users/VitorHugo/CLionProjects/urban-enigma/Genetic-Algorithm/Node_Generation/Generation/generation.h">
+			<Option target="tsp_genetic"/>
+		</Unit>
+		<Unit filename="/Users/VitorHugo/CLionProjects/urban-enigma/Genetic-Algorithm/Node_Generation/node_generation.c">
+			<Option target="tsp_genetic"/>
+		</Unit>
+		<Unit filename="/Users/VitorHugo/CLionProjects/urban-enigma/Genetic-Algorithm/Node_Generation/node_generation.h">
+			<Option target="tsp_genetic"/>
+		</Unit>
+		<Unit filename="/Users/VitorHugo/CLionProjects/urban-enigma/Genetic-Algorithm/genetic_algorithm.c">
+			<Option target="tsp_genetic"/>
+		</Unit>
+		<Unit filename="/Users/VitorHugo/CLionProjects/urban-enigma/Genetic-Algorithm/genetic_algorithm.h">
+			<Option target="tsp_genetic"/>
+		</Unit>
+		<Unit filename="/Users/VitorHugo/CLionProjects/urban-enigma/Porto-Pontos/Linked_List/linked_list.c">
+			<Option target="tsp_genetic"/>
+		</Unit>
+		<Unit filename="/Users/VitorHugo/CLionProjects/urban-enigma/Porto-Pontos/Linked_List/linked_list.h">
+			<Option target="tsp_genetic"/>
+		</Unit>
+		<Unit filename="/Users/VitorHugo/CLionProjects/urban-enigma/Porto-Pontos/Node/Client/Trips/Cities/Coordinates/coordinates.c">
+			<Option target="tsp_genetic"/>
+		</Unit>
+		<Unit filename="/Users/VitorHugo/CLionProjects/urban-enigma/Porto-Pontos/Node/Client/Trips/Cities/Coordinates/coordinates.h">
+			<Option target="tsp_genetic"/>
+		</Unit>
+		<Unit filename="/Users/VitorHugo/CLionProjects/urban-enigma/Porto-Pontos/Node/Client/Trips/Cities/POI/poi.c">
+			<Option target="tsp_genetic"/>
+		</Unit>
+		<Unit filename="/Users/VitorHugo/CLionProjects/urban-enigma/Porto-Pontos/Node/Client/Trips/Cities/POI/poi.h">
+			<Option target="tsp_genetic"/>
+		</Unit>
+		<Unit filename="/Users/VitorHugo/CLionProjects/urban-enigma/Porto-Pontos/Node/Client/Trips/Cities/cities.c">
+			<Option target="tsp_genetic"/>
+		</Unit>
+		<Unit filename="/Users/VitorHugo/CLionProjects/urban-enigma/Porto-Pontos/Node/Client/Trips/Cities/cities.h">
+			<Option target="tsp_genetic"/>
+		</Unit>
+		<Unit filename="/Users/VitorHugo/CLionProjects/urban-enigma/Porto-Pontos/Node/Client/Trips/trips.c">
+			<Option target="tsp_genetic"/>
+		</Unit>
+		<Unit filename="/Users/VitorHugo/CLionProjects/urban-enigma/Porto-Pontos/Node/Client/Trips/trips.h">
+			<Option target="tsp_genetic"/>
+		</Unit>
+		<Unit filename="/Users/VitorHugo/CLionProjects/urban-enigma/Porto-Pontos/Node/Client/client.c">
+			<Option target="tsp_genetic"/>
+		</Unit>
+		<Unit filename="/Users/VitorHugo/CLionProjects/urban-enigma/Porto-Pontos/Node/Client/client.h">
+			<Option target="tsp_genetic"/>
+		</Unit>
+		<Unit filename="/Users/VitorHugo/CLionProjects/urban-enigma/Porto-Pontos/Node/node.c">
+			<Option target="tsp_genetic"/>
+		</Unit>
+		<Unit filename="/Users/VitorHugo/CLionProjects/urban-enigma/Porto-Pontos/Node/node.h">
+			<Option target="tsp_genetic"/>
+		</Unit>
+		<Unit filename="/Users/VitorHugo/CLionProjects/urban-enigma/main.c">
+			<Option target="tsp_genetic"/>
+		</Unit>
+		<Unit filename="/Users/VitorHugo/CLionProjects/urban-enigma/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
